@@ -1,13 +1,11 @@
-# my-component CfHighlander Component
+# msk CfHighlander Component
 
-![cftest](https://github.com/theonestack/hl-component-my-component/actions/workflows/rspec.yaml/badge.svg)
+![cftest](https://github.com/theonestack/hl-component-msk/actions/workflows/rspec.yaml/badge.svg)
 
-**_NOTE:_**  Rename and replace my-component with the name of your component
-
-TODO: Add Description
+Creates a Amazon Managed Streaming for Apache Kafka (MSK)
 
 ```bash
-kurgan add my-component
+kurgan add msk
 ```
 
 ## Requirements
